@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3385"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="waiter.svg">
+  <defs
+     id="defs3">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6320"
+       id="radialGradient3186"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2247941,0.11784915,-0.05550215,0.32721162,-83.227702,317.07952)"
+       cx="540.70428"
+       cy="587.44312"
+       fx="540.70428"
+       fy="587.44312"
+       r="49.875336" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6320">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop6322" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0;"
+         offset="1"
+         id="stop6324" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6328"
+       id="radialGradient3184"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.20192244,-0.30091742,0.37433434,0.15306177,210.84411,644.0337)"
+       cx="549.65387"
+       cy="616.11475"
+       fx="549.65387"
+       fy="616.11475"
+       r="49.875336" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6328">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6330" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop6332" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6640"
+       id="linearGradient3174"
+       gradientUnits="userSpaceOnUse"
+       x1="675.71033"
+       y1="618.65021"
+       x2="686.48816"
+       y2="618.638" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6640">
+      <stop
+         style="stop-color:#338000;stop-opacity:1;"
+         offset="0"
+         id="stop6642" />
+      <stop
+         style="stop-color:#338000;stop-opacity:0;"
+         offset="1"
+         id="stop6644" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6598"
+       id="radialGradient3176"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.2658221,-0.58227647,0.14282815,-0.31049688,1365.8365,1204.0217)"
+       cx="640.60583"
+       cy="628.08899"
+       fx="640.60583"
+       fy="628.08899"
+       r="6.2273798" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6598">
+      <stop
+         style="stop-color:#7c916f;stop-opacity:1;"
+         offset="0"
+         id="stop6600" />
+      <stop
+         style="stop-color:#7c916f;stop-opacity:0;"
+         offset="1"
+         id="stop6602" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6610"
+       id="radialGradient3178"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.3863622,0.19886289,-0.02823617,-0.1968491,1547.3692,603.15151)"
+       cx="640.46741"
+       cy="613.38715"
+       fx="640.46741"
+       fy="613.38715"
+       r="13.87366" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6610">
+      <stop
+         style="stop-color:#7c916f;stop-opacity:1;"
+         offset="0"
+         id="stop6612" />
+      <stop
+         style="stop-color:#7c916f;stop-opacity:0;"
+         offset="1"
+         id="stop6614" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6620"
+       id="linearGradient3180"
+       gradientUnits="userSpaceOnUse"
+       x1="637.55774"
+       y1="607.61432"
+       x2="626.04889"
+       y2="606.04077" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6620">
+      <stop
+         style="stop-color:#a6cb8e;stop-opacity:1;"
+         offset="0"
+         id="stop6622" />
+      <stop
+         style="stop-color:#a6cb8e;stop-opacity:0;"
+         offset="1"
+         id="stop6624" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6632"
+       id="linearGradient3182"
+       gradientUnits="userSpaceOnUse"
+       x1="658.36823"
+       y1="636.62292"
+       x2="673.97607"
+       y2="635.83466" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6632">
+      <stop
+         style="stop-color:#e5ffd5;stop-opacity:1;"
+         offset="0"
+         id="stop6634" />
+      <stop
+         style="stop-color:#e5ffd5;stop-opacity:1"
+         offset="1"
+         id="stop6636" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3887"
+       id="linearGradient3893"
+       x1="297.03241"
+       y1="265.99258"
+       x2="292.91565"
+       y2="253.73183"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3887">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3889" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3891" />
+    </linearGradient>
+    <linearGradient
+       y2="253.73183"
+       x2="292.91565"
+       y1="265.99258"
+       x1="297.03241"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3383"
+       xlink:href="#linearGradient3887"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="233.584"
+     inkscape:cy="652.79669"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1313"
+     inkscape:window-height="650"
+     inkscape:window-x="72"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(104.95699,84.370751)"
+       id="g3895">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cscssc"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3348"
+         d="m 366.00224,434.66564 c -48.83678,-20.35495 -52.52928,-32.19154 -64.5628,-26.2063 -12.6886,6.31106 -27.64681,17.83666 -27.64681,17.83666 0,0 3.56733,-28.98457 12.03974,-32.99781 8.47241,-4.01325 33.09677,-24.25737 54.84771,-12.03974 18.06617,10.14788 26.21399,52.96127 25.32216,53.40719 z"
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g3866">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 294.99682,511.45506 c 0.27629,1.83247 -3.71159,13.92149 -3.71159,13.92149 0,0 11.08759,5.20732 12.25973,-1.65741 5.78309,2.95098 10.45448,8.84257 15.97291,9.69138 2.85954,1.05083 13.60554,3.8238 18.63487,4.23721 5.00636,0.40679 8.47857,-0.15819 8.84069,-1.85234 0.36329,-1.69484 1.34515,-3.0387 -2.95424,-5.28511 -2.40849,-1.26386 -11.08888,-3.93802 -11.08888,-3.93802 l -10.97329,-8.50357 -19.15487,-3.68744 -3.05907,-0.88517 -4.76626,-2.04102 z"
+           id="path4760"
+           style="fill:#000000"
+           sodipodi:nodetypes="cccccscccccc"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000;stroke:#000000;stroke-width:0.8635999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 257.14679,520.19296 c -12.95852,16.47933 -21.59752,17.02863 -14.0384,20.87382 7.55914,3.84518 25.37709,-3.84519 28.61672,-8.78897 3.23961,-4.9438 9.17893,-16.47934 9.17893,-16.47934 l -21.59751,1.64794 -2.15974,2.74655 z"
+           id="path6133"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#4d4d4d;stroke:#000000;stroke-width:2.50300002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 282.69621,380.90376 c -21.7577,125.80599 -29.87633,130.45046 -28.36303,139.71752 2.57279,2.02367 17.95211,8.06946 33.76632,-4.87874 0,0 22.54136,-109.24759 26.92463,-114.99735 4.38326,-5.74976 -27.27623,108.98495 -19.0998,115.79422 8.17643,6.80926 24.87703,1.82537 24.87703,1.82537 0,0 28.2631,-103.91487 31.80102,-156.64454 l -69.90617,19.18352 z"
+           id="path5957"
+           sodipodi:nodetypes="ccczzccc"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#999999;stroke:none"
+           d="m 253.1943,539.19198 c -5.9909,1.89186 -10.72056,0.31531 -10.72056,0.31531 -0.0255,-3.7473 3.12206,-5.18967 5.67559,-7.25214 -2.27404,3.42701 1.87244,6.67367 5.04497,6.93683 z"
+           id="path6819"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="cccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#cccccc;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 257.29334,521.03273 23.33297,-90.30756 0,0"
+           id="path3070"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 264.35453,522.16961 c 25.22483,-95.85438 25.73109,-97.12002 25.73109,-97.12002 l 0,0"
+           id="path3844"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="ccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 273.30758,521.66336 c 24.59422,-102.79121 25.60674,-103.5506 25.60674,-103.5506"
+           id="path3846"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 282.51817,517.75086 C 309.00425,401.71661 309.00425,401.71661 309.00425,401.71661"
+           id="path3848"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 298.78996,516.36526 C 325.90666,388.97983 325.4004,388.47357 325.4004,388.47357"
+           id="path3850"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 307.86737,518.76338 C 329.9391,395.7923 330.44536,394.77978 330.44536,394.77978"
+           id="path3852"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#898282;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 315.43482,518.26152 C 338.13717,405.38037 338.01281,403.60847 338.01281,403.60847"
+           id="path3854"
+           transform="translate(0,-7.3242188e-6)"
+           inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+           inkscape:export-xdpi="71.96981"
+           inkscape:export-ydpi="71.96981"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cccccscscccsccccccccc"
+         id="path2846"
+         d="m 301.50119,271.18102 4.32997,2.33425 37.67487,0.44992 c 0,0 4.13043,-0.37569 4.63278,1.49307 l 3.51919,9.15643 c 0,0 3.02248,-0.56208 8.75902,7.00471 5.73653,7.56679 7.94964,11.86446 7.94964,11.86446 0,0 3.01381,14.79903 0.99742,17.13619 -2.01638,2.33717 -16.9305,10.25638 -16.9305,10.25638 l -2.66617,3.29453 9.87229,28.1176 c 5.05325,23.64186 9.78348,78.87435 5.01658,72.58758 -21.45989,-28.30211 -44.26094,-53.78713 -44.26094,-53.78713 -17.10893,22.91405 -13.02289,40.98558 -48.38505,51.78404 -1.46293,-24.34753 8.18191,-64.66925 8.60722,-64.31483 l -13.35152,-22.60311 -22.83481,0.19885 -7.43607,-25.69526 1.52103,-14.01816 20.05639,-13.93324 42.92866,-21.32628 z"
+         style="fill:#1a1a1a;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cccc"
+         id="path5764"
+         d="m 301.28267,270.95611 c 0,0 4.20839,49.76122 18.85121,75.02024 -44.63554,-15.1007 -59.65103,-56.22545 -59.65103,-56.22545 l 40.79982,-18.79479 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.90326416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         d="M 290.49591,341.97894"
+         id="path4701"
+         style="fill:#ffffff" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         d="M 316.61022,343.98811"
+         id="path4703"
+         style="fill:#5590cc" />
+      <path
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(1.1201511,0,0,1.4736717,-385.20293,-463.96472)"
+         d="m 602.87361,561.26373 c 0,8.70706 -22.02241,15.76553 -49.18843,15.76553 -27.16602,0 -49.18843,-7.05847 -49.18843,-15.76553 0,-8.70705 22.02241,-15.76552 49.18843,-15.76552 27.16602,0 49.18843,7.05847 49.18843,15.76552 z"
+         sodipodi:ry="15.765523"
+         sodipodi:rx="49.188431"
+         sodipodi:cy="561.26373"
+         sodipodi:cx="553.68518"
+         id="path5744"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.37380886;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(1.1201511,0,0,1.4736717,-384.91865,-463.03576)"
+         d="m 602.87361,561.26373 c 0,8.70706 -22.02241,15.76553 -49.18843,15.76553 -27.16602,0 -49.18843,-7.05847 -49.18843,-15.76553 0,-8.70705 22.02241,-15.76552 49.18843,-15.76552 27.16602,0 49.18843,7.05847 49.18843,15.76552 z"
+         sodipodi:ry="15.765523"
+         sodipodi:rx="49.188431"
+         sodipodi:cy="561.26373"
+         sodipodi:cx="553.68518"
+         id="path5744-4"
+         style="fill:url(#radialGradient3186);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.37380886;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(0.987742,0,0,1.2537837,-311.47428,-342.15579)"
+         d="m 602.87361,561.26373 c 0,8.70706 -22.02241,15.76553 -49.18843,15.76553 -27.16602,0 -49.18843,-7.05847 -49.18843,-15.76553 0,-8.70705 22.02241,-15.76552 49.18843,-15.76552 27.16602,0 49.18843,7.05847 49.18843,15.76552 z"
+         sodipodi:ry="15.765523"
+         sodipodi:rx="49.188431"
+         sodipodi:cy="561.26373"
+         sodipodi:cx="553.68518"
+         id="path5744-1"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.37380886;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(0.987742,0,0,1.2537837,-312.13264,-343.27559)"
+         d="m 602.87361,561.26373 c 0,8.70706 -22.02241,15.76553 -49.18843,15.76553 -27.16602,0 -49.18843,-7.05847 -49.18843,-15.76553 0,-8.70705 22.02241,-15.76552 49.18843,-15.76552 27.16602,0 49.18843,7.05847 49.18843,15.76552 z"
+         sodipodi:ry="15.765523"
+         sodipodi:rx="49.188431"
+         sodipodi:cy="561.26373"
+         sodipodi:cx="553.68518"
+         id="path5744-1-3"
+         style="fill:url(#radialGradient3184);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.37380886;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cscsc"
+         id="path5746"
+         d="m 265.32596,285.00516 c 0,0 -4.8084,6.06479 -3.76356,10.36396 2.32614,9.57125 7.13477,25.25064 7.13477,25.25064 0,0 12.07552,-13.38457 10.91609,-14.55176 -2.74185,-2.76019 -14.2873,-21.06284 -14.2873,-21.06284 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.90326416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cccz"
+         id="path5748"
+         d="m 287.70838,297.18701 c -2.63185,2.53925 13.37932,15.09789 13.37932,15.09789 1.66664,-9.94532 2.86549,-19.89179 2.01918,-29.95457 l -15.3985,14.85668 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:1.90326416;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         id="path6350"
+         d="m 281.03595,302.79135 -7.9274,-3.78815 -6.60655,1.35642 2.51689,10.75811 3.90827,8.05785 7.15426,-4.13581 2.46668,-6.01768 4.71783,-1.48018 6.07693,3.8816 8.27375,1.04326 -1.43356,-10.49626 -3.00622,-10.00284 -5.97429,2.59077 -6.06293,7.97699 -4.10366,0.25595 z"
+         style="fill:#000000;stroke:#000000;stroke-width:2.26345348;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(1.2817672,0,0,1.3021739,-601.97158,-446.18776)"
+         id="g6648">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffaa;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 654.19155,609.56645 c -33.16071,-5.74171 -40.86685,-11.1609 -40.86685,-11.1609 0,0 3.49118,14.46792 10.8953,19.63552 7.40409,5.16761 7.74082,5.99344 7.74082,5.99344 0,0 26.62009,0.49692 32.60778,-2.70086 1.75905,-0.93945 -11.78414,-11.67504 -10.37704,-11.7672 z"
+           id="path6363"
+           sodipodi:nodetypes="ccscsc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffaa;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 649.84477,608.69171 c -33.6513,0.43699 -36.83951,-0.93973 -36.83951,-0.93973 0,0 6.08525,13.5823 14.31147,17.30443 8.22622,3.72213 8.70867,4.4722 8.70867,4.4722 0,0 26.25975,-4.39335 31.55946,-8.63498 1.55693,-1.2461 -14.50227,-9.94095 -17.74009,-12.20192 z"
+           id="path6363-2"
+           sodipodi:nodetypes="ccscsc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffaa;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 654.86415,608.82147 c -32.79228,7.56745 -39.09848,7.56745 -39.09848,7.56745 0,0 8.82869,11.9818 17.65738,13.87366 8.82869,1.89187 9.4593,2.52249 9.4593,2.52249 0,0 24.72957,-9.86532 29.00857,-15.1349 1.25707,-1.54809 -12.4911,-6.41441 -17.02677,-8.8287 z"
+           id="path6363-2-8"
+           sodipodi:nodetypes="ccscsc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+           x="248.16173"
+           y="796.9856"
+           id="text6455-5-7"
+           transform="matrix(0.98734449,-0.28987645,0.47551559,0.87321015,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan6457-5-6"
+             x="248.16173"
+             y="796.9856"
+             style="font-size:8px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:Elephant">£50</tspan></text>
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffaa;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 662.21515,611.57533 c -31.07211,12.92764 -39.97023,15.24005 -39.97023,15.24005 0,0 10.7024,10.34254 19.72293,10.7363 9.02052,0.39377 11.53111,0.0186 11.53111,0.0186 0,0 20.9555,-12.95759 24.29625,-18.8667 0.98145,-1.73597 -10.194,-4.27377 -11.95399,-5.55172 l -3.62607,-1.57653 z"
+           id="path6363-2-8-2"
+           sodipodi:nodetypes="ccscscc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+           x="143.06075"
+           y="855.33441"
+           id="text6455"
+           transform="matrix(0.94379486,-0.41003508,0.58009388,0.80752841,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan6457"
+             x="143.06075"
+             y="855.33441"
+             style="font-size:8px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:Elephant">£50</tspan></text>
+        <path
+           sodipodi:type="arc"
+           style="opacity:0.54600004;fill:#b3ff80;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path6453-2-7"
+           sodipodi:cx="605.55438"
+           sodipodi:cy="564.30713"
+           sodipodi:rx="9.8101587"
+           sodipodi:ry="11.370866"
+           d="m 615.36454,564.30713 c 0,6.27995 -4.39216,11.37086 -9.81016,11.37086 -5.418,0 -9.81016,-5.09091 -9.81016,-11.37086 0,-6.27996 4.39216,-11.37087 9.81016,-11.37087 4.78128,0 8.86615,3.99525 9.67038,9.45822"
+           transform="matrix(0.90909091,0,0,0.6862745,99.509804,240.79256)"
+           sodipodi:start="0"
+           sodipodi:end="6.1141759"
+           sodipodi:open="true" />
+        <path
+           sodipodi:type="arc"
+           style="opacity:0.54600004;fill:#b3ff80;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path6453-8"
+           sodipodi:cx="605.55438"
+           sodipodi:cy="564.30713"
+           sodipodi:rx="9.8101587"
+           sodipodi:ry="11.370866"
+           d="m 615.36454,564.30713 c 0,6.27995 -4.39216,11.37086 -9.81016,11.37086 -5.418,0 -9.81016,-5.09091 -9.81016,-11.37086 0,-6.27996 4.39216,-11.37087 9.81016,-11.37087 4.78128,0 8.86615,3.99525 9.67038,9.45822"
+           transform="matrix(0.90909091,0,0,0.6862745,109.98886,236.55637)"
+           sodipodi:start="0"
+           sodipodi:end="6.1141759"
+           sodipodi:open="true" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#ccffaa;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 672.01877,611.81908 c -28.98693,17.09848 -34.99992,18.99904 -34.99992,18.99904 0,0 11.38159,7.74284 21.01761,7.90705 4.11091,0.07 14.01594,0.44621 14.01594,0.44621 0,0 16.37035,-17.75142 18.86226,-24.06559 -9.30106,-0.51721 -15.5896,-2.00758 -18.89589,-3.28671 z"
+           id="path6363-2-8-2-0"
+           sodipodi:nodetypes="ccsccc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+           x="153.73607"
+           y="864.12714"
+           id="text6455-5"
+           transform="matrix(0.94379486,-0.41003508,0.58009388,0.80752841,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan6457-5"
+             x="153.73607"
+             y="864.12714"
+             style="font-size:8px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:Elephant">£50</tspan></text>
+        <g
+           id="g6556"
+           transform="matrix(0.9181819,0,0,0.91954015,-2.7246535,43.569714)">
+          <path
+             sodipodi:open="true"
+             sodipodi:end="6.1141759"
+             sodipodi:start="0"
+             transform="matrix(0.90909091,0,0,0.6862745,176.11666,247.71524)"
+             d="m 615.36454,564.30713 c 0,6.27995 -4.39216,11.37086 -9.81016,11.37086 -5.418,0 -9.81016,-5.09091 -9.81016,-11.37086 0,-6.27996 4.39216,-11.37087 9.81016,-11.37087 4.78128,0 8.86615,3.99525 9.67038,9.45822"
+             sodipodi:ry="11.370866"
+             sodipodi:rx="9.8101587"
+             sodipodi:cy="564.30713"
+             sodipodi:cx="605.55438"
+             id="path6453-2"
+             style="opacity:0.54600004;fill:#55d400;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             sodipodi:type="arc" />
+          <path
+             sodipodi:open="true"
+             sodipodi:end="6.1141759"
+             sodipodi:start="0"
+             transform="matrix(0.90909091,0,0,0.6862745,182.80543,243.92497)"
+             d="m 615.36454,564.30713 c 0,6.27995 -4.39216,11.37086 -9.81016,11.37086 -5.418,0 -9.81016,-5.09091 -9.81016,-11.37086 0,-6.27996 4.39216,-11.37087 9.81016,-11.37087 4.78128,0 8.86615,3.99525 9.67038,9.45822"
+             sodipodi:ry="11.370866"
+             sodipodi:rx="9.8101587"
+             sodipodi:cy="564.30713"
+             sodipodi:cx="605.55438"
+             id="path6453"
+             style="opacity:0.54600004;fill:#7fff2a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             sodipodi:type="arc" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3174);fill-opacity:1;stroke:none"
+           d="m 686.48818,616.28914 -7.49088,-0.3593 -4.60296,3.16512 8.75211,2.25117 3.34173,-5.05699 z"
+           id="path6578"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#radialGradient3176);fill-opacity:1;stroke:none"
+           d="m 645.4405,636.62291 -8.04041,-4.25669 -4.41435,1.10358 6.30621,2.8378 6.14855,0.31531 z"
+           id="path6596"
+           transform="translate(0,-7.3242188e-6)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#radialGradient3178);fill-opacity:1;stroke:none"
+           d="m 646.54409,609.77199 -22.22938,0 -5.51794,5.51794 27.74732,-5.51794 z"
+           id="path6606" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3180);fill-opacity:1;stroke:none"
+           d="m 639.13429,607.45669 -12.2971,-2.83779 c 0,0 -5.20263,2.99545 -4.41435,2.83779 0.78828,-0.15765 16.23849,0 16.71145,0 z"
+           id="path6618"
+           transform="translate(0,-7.3242188e-6)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:url(#linearGradient3182);fill-opacity:1;stroke:none"
+           d="m 671.45361,637.88415 c -2.83779,-0.78828 -14.97724,-0.94593 -14.97724,-0.94593 0,0 11.50883,-1.73421 13.24304,-2.36483 1.7342,-0.63062 7.7251,-4.572 7.7251,-4.572 l -5.9909,7.88276 z"
+           id="path6630"
+           transform="translate(0,-7.3242188e-6)" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cssccscc"
+         id="path3212"
+         d="m 307.50759,259.28358 c 2.16326,25.71778 -6.29185,4.38565 -4.79716,12.00336 3.42812,17.47142 -11.55347,21.58351 -13.14686,24.99662 -3.2918,7.05118 -13.81508,5.47429 -13.81508,5.47429 -6.23217,-0.096 -7.89693,-6.00994 -13.83943,-8.73155 -5.21598,-1.02801 -9.24632,-16.04892 -8.34557,-24.67252 0.27814,-2.66274 -3.16371,-1.41519 -4.2069,-6.8123 -0.0375,-41.21247 59.04994,-44.63694 58.151,-2.2579 z"
+         style="fill:#fcd1af;fill-opacity:1;stroke:#000000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="ccccccsccc"
+         id="path3346"
+         d="m 297.61876,259.2625 c 1.8114,7.33792 2.02569,8.44898 2.02569,8.44898 l -4.40459,3.86129 c -0.0846,-8.95439 -4.07505,-13.53777 -9.82531,-19.40533 l 7.05033,-7.30436 -2.76075,7.18583 c 0,0 3.71361,-1.80912 6.66869,-4.46307 4.49296,-4.03509 5.69135,-6.51626 5.69135,-6.51626 5.55581,8.35843 5.7295,19.31965 4.94171,30.06955 -2.15676,4.69319 -9.38712,-11.87663 -9.38712,-11.87663 z"
+         style="fill:#333333;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="ccsc"
+         id="path3350"
+         d="m 282.84933,261.4193 c -11.35117,-8.16638 -12.97527,1.2995 -12.97527,1.2995 0,0 0.0416,-5.70658 3.59246,-6.15977 4.33893,-0.55375 9.38281,4.86027 9.38281,4.86027 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         id="path3352"
+         d="m 289.455,295.14166 c 3.46842,-5.67558 5.36028,-16.39614 5.36028,-16.39614 0,0 -0.31531,6.93683 -0.63062,8.82869 -0.31531,1.89187 -2.20717,5.9909 -2.20717,5.9909 l -2.52249,1.57655 z"
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         id="path3358"
+         d="m 251.85138,264.75944 c 0,-3.16375 1.98537,-9.67734 5.16197,-6.3275 3.17659,3.34985 3.97073,4.28037 3.97073,4.28037 0,0 -3.57367,-3.53596 -4.96342,-3.34985 -1.38976,0.1861 -3.77221,5.58308 -4.16928,5.39698 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cc"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3882"
+         d="M 317.20232,343.69949 C 291.97748,323.51962 285.67128,308.38471 285.67128,308.38471"
+         style="fill:none;stroke:#000000;stroke-width:2.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(0.47560467,0,0,0.57560467,157.71059,137.34789)"
+         d="m 302.69806,322.88901 c 0,1.74141 -1.4117,3.1531 -3.15311,3.1531 -1.74141,0 -3.1531,-1.41169 -3.1531,-3.1531 0,-1.74141 1.41169,-3.15311 3.1531,-3.15311 1.74141,0 3.15311,1.4117 3.15311,3.15311 z"
+         sodipodi:ry="3.1531045"
+         sodipodi:rx="3.1531045"
+         sodipodi:cy="322.88901"
+         sodipodi:cx="299.54495"
+         id="path3884"
+         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#070404;stroke-width:1.91123807;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="cccc"
+         id="path6314-7"
+         d="m 278.60849,289.03916 c -4.5642,2.32608 -11.97799,1.74486 -11.97799,1.74486 2.11144,2.40338 4.79556,3.1954 7.98834,2.54901 3.35836,-1.37621 4.39473,-4.16497 3.98965,-4.29387 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.95163208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(0.99509044,-0.09896978,0.09896978,0.99509044,48.539829,-178.38896)"
+         id="g4314">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 176.82348,462.749"
+           id="path4540-4"
+           style="fill:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 180.72754,463.02353"
+           id="path4542-0"
+           style="fill:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 186.35053,467.12461 c 0.97088,-6.29135 -9.50679,-7.01096 -8.20801,0.39911 2.13427,0.52207 8.08229,0.38399 8.20801,-0.39911 l 0,0 z"
+           id="path4730-9"
+           style="fill:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 181.01979,462.73336 c -1.45251,-0.14945 -2.75428,0.78998 -2.89144,2.09128 -0.0824,0.76668 0.27869,1.4909 0.90565,1.98711 l 3.62043,0.13742 c 0.65042,-0.36285 0.70287,-0.85143 0.77958,-1.57645 l 0.008,-0.0848 c 0.09,-1.26058 -0.99221,-2.40534 -2.4216,-2.55458 l 0,0 0,0 z"
+           id="path4732-4"
+           style="fill:#010101" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000"
+           id="path4738-8"
+           d="m 178.08157,464.17106 c 0,0 1.52244,-2.57935 5.25665,-1.85709 0,0 -1.22666,-0.77624 -2.65141,-0.54934 -2.73633,0.43411 -2.60524,2.40643 -2.60524,2.40643 z" />
+        <ellipse
+           style="fill:#ffffff"
+           sodipodi:ry="1.334"
+           sodipodi:rx="1.25"
+           sodipodi:cy="508.16699"
+           sodipodi:cx="866.58398"
+           d="m 867.83398,508.16699 c 0,0.73675 -0.55964,1.334 -1.25,1.334 -0.69035,0 -1.25,-0.59725 -1.25,-1.334 0,-0.73675 0.55965,-1.334 1.25,-1.334 0.69036,0 1.25,0.59725 1.25,1.334 z"
+           id="ellipse4742-2"
+           ry="1.334"
+           rx="1.25"
+           cy="508.16699"
+           cx="866.58398"
+           transform="matrix(0.94962434,-0.10928554,0.11029287,0.9409512,-696.33891,81.264333)" />
+      </g>
+      <g
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         transform="matrix(0.99509044,-0.09896978,0.09896978,0.99509044,31.842465,-176.87691)"
+         id="g4314-4">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 176.82348,462.749"
+           id="path4540-4-5"
+           style="fill:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 180.72754,463.02353"
+           id="path4542-0-5"
+           style="fill:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 186.35053,467.12461 c 0.97088,-6.29135 -9.50679,-7.01096 -8.20801,0.39911 2.13427,0.52207 8.08229,0.38399 8.20801,-0.39911 l 0,0 z"
+           id="path4730-9-1"
+           style="fill:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 181.01979,462.73336 c -1.45251,-0.14945 -2.75428,0.78998 -2.89144,2.09128 -0.0824,0.76668 0.27869,1.4909 0.90565,1.98711 l 3.62043,0.13742 c 0.65042,-0.36285 0.70287,-0.85143 0.77958,-1.57645 l 0.008,-0.0848 c 0.09,-1.26058 -0.99221,-2.40534 -2.4216,-2.55458 l 0,0 0,0 z"
+           id="path4732-4-7"
+           style="fill:#010101" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#000000"
+           id="path4738-8-1"
+           d="m 178.08157,464.17106 c 0,0 1.52244,-2.57935 5.25665,-1.85709 0,0 -1.22666,-0.77624 -2.65141,-0.54934 -2.73633,0.43411 -2.60524,2.40643 -2.60524,2.40643 z" />
+        <ellipse
+           style="fill:#ffffff"
+           sodipodi:ry="1.334"
+           sodipodi:rx="1.25"
+           sodipodi:cy="508.16699"
+           sodipodi:cx="866.58398"
+           d="m 867.83398,508.16699 c 0,0.73675 -0.55964,1.334 -1.25,1.334 -0.69035,0 -1.25,-0.59725 -1.25,-1.334 0,-0.73675 0.55965,-1.334 1.25,-1.334 0.69036,0 1.25,0.59725 1.25,1.334 z"
+           id="ellipse4742-2-5"
+           ry="1.334"
+           rx="1.25"
+           cy="508.16699"
+           cx="866.58398"
+           transform="matrix(0.94962434,-0.10928554,0.11029287,0.9409512,-695.68414,81.075077)" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="csscsc"
+         id="path3356"
+         d="m 262.63183,264.61331 c 1.20397,16.85352 0.33283,17.99679 1.20397,19.11436 1.45768,1.87005 3.00993,0.20553 6.01985,-0.20552 2.66855,-0.36443 4.01324,-2.87744 4.01324,-2.87744 0,0 -7.3146,4.23728 -8.82912,2.05531 -2.13687,-3.0786 -2.40794,-18.08671 -2.40794,-18.08671 z"
+         style="fill:#000000;stroke:#000000;stroke-width:0.910851px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="translate(3.5797821,-5.0117022)"
+         d="m 289.96233,277.3584 c 0,3.361 -2.56436,6.08563 -5.72765,6.08563 -3.16329,0 -5.72765,-2.72463 -5.72765,-6.08563 0,-3.361 2.56436,-6.08563 5.72765,-6.08563 3.16329,0 5.72765,2.72463 5.72765,6.08563 z"
+         sodipodi:ry="6.0856295"
+         sodipodi:rx="5.7276511"
+         sodipodi:cy="277.3584"
+         sodipodi:cx="284.23468"
+         id="path4366"
+         style="opacity:0.31760003;fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:export-ydpi="71.96981"
+         inkscape:export-xdpi="71.96981"
+         inkscape:export-filename="\\styx\Public\backups\web\pingtree\paydaywedge2.png"
+         sodipodi:nodetypes="ccssc"
+         id="path3212-1"
+         d="m 298.8873,262.42512 c -1.22405,-3.36045 -1.71739,-8.4589 2.09909,-11.83292 2.26144,-1.35806 6.89002,0.20768 6.19877,5.03596 l -0.87511,6.11242 c -0.79313,5.53988 -3.29774,1.77496 -3.4701,8.04016"
+         style="fill:#fcd1af;fill-opacity:1;stroke:#000000;stroke-width:1.64216185;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3860"
+         d="m 280.02845,268.22995 c -5.45917,1.34242 -8.05451,0.98444 -8.05451,0.98444 0,0 1.78989,0.80545 3.04281,0.62646 1.25293,-0.17899 5.0117,-1.52141 5.0117,-1.6109 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3862"
+         d="m 262.12954,270.01984 c 0,0 -2.77433,0.80545 -3.84827,0.80545 -1.07393,0 -3.40079,-0.0895 -3.40079,-0.0895 0,0 1.6109,0.71595 3.40079,0.62646 1.78989,-0.0895 3.84827,-1.16343 3.84827,-1.34242 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3864"
+         d="m 272.3666,250.07485 c -4.80945,-2.02503 -12.65644,-1.51877 -14.17521,-0.75939 -1.51877,0.75939 -4.80945,2.78442 -4.80945,3.79694 0,1.01251 0.75939,-1.51878 4.30319,-2.53129 3.5438,-1.01252 14.68147,-1.01252 14.68147,-0.50626 z"
+         style="fill:#fda998;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3881"
+         d="m 300.84359,259.69375 c -0.50625,-1.51878 -0.50625,-5.82197 0.25313,-6.58135 0.75939,-0.75939 2.02503,-0.88595 2.02503,-0.88595 l 0.88595,0.25312 c 0,0 -1.51877,-0.63282 -2.02503,0.63283 -0.50625,1.26564 -0.50625,5.44227 -0.50625,5.44227 l -0.63283,1.13908 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3883"
+         d="m 302.86862,260.70626 c 0,1.39221 0,2.40472 -0.50625,2.02503 -0.50626,-0.37969 -0.88595,-1.89846 -0.88595,-1.89846 l 0.75938,0.63282 0.63282,-0.75939 z"
+         style="fill:#000000;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscccccsc"
+         transform="translate(0,-7.3242188e-6)"
+         id="path3885"
+         d="m 298.9118,267.335 -2.95332,2.77433 c 0,0 0.26848,-5.01169 -2.50585,-9.57591 -2.89142,-4.75685 -3.57978,-5.28018 -3.57978,-5.28018 2.94318,-1.15397 4.87295,-2.45079 7.15956,-4.11675 l -3.40079,4.47473 2.32686,-0.44747 -1.07394,2.23736 c 0,0 0.80545,0.89494 1.87939,3.3113 1.07393,2.41635 2.14787,6.62259 2.14787,6.62259 z"
+         style="fill:url(#linearGradient3383);fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>
