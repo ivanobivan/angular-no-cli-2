@@ -18,13 +18,9 @@ module.exports = {
         static: {
             directory: path.resolve(__dirname, "dist")
         },
-        compress: true,
         port: 4200,
         hot: true,
-        open: false,
-        client: {
-            progress: true
-        }
+        open: false
     },
     output: {
         clean: true,
@@ -36,16 +32,6 @@ module.exports = {
     },
     module: {
         rules: [
-            /*{
-                test: /\.?(svg|html)$/,
-                resourceQuery: /\?ngResource/,
-                type: "asset/source"
-            },*/
-            /*{
-                test: /\.(js|ts)$/,
-                loader: "ts-loader",
-                exclude: /node_modules/
-            },*/
             {
                 test: /\.(css)$/,
                 oneOf: [
@@ -78,7 +64,7 @@ module.exports = {
             },
         ]
     },
-    optimization: {
+   /* optimization: {
         runtimeChunk: 'single',
         splitChunks: {
             chunks: "all",
@@ -86,6 +72,24 @@ module.exports = {
             minSize: 0,
             name: "vendor"
         },
+    },*/
+    optimization: {
+        minimize: true,
+        runtimeChunk: 'single',
+        splitChunks: {
+            chunks: "all",
+            maxAsyncRequests: Infinity,
+            minSize: 0,
+            cacheGroups: {
+                defaultVendors: {
+                    test: /[\\/]node_modules[\\/]/,
+                    name(module) {
+                        const name = module.context.match(/[\\/]node_modules[\\/](.*?)([\\/]|$)/)[1];
+                        return `${name.replace('@', '')}`;
+                    }
+                },
+            }
+        }
     },
     plugins: [
         new HtmlWebpackPlugin({
