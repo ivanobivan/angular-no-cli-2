@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require("copy-webpack-plugin");
 const ngtools = require('@ngtools/webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = {
     mode: "development",
@@ -33,6 +34,40 @@ module.exports = {
     module: {
         rules: [
             {
+                test: /\.?(svg|html)$/,
+                resourceQuery: /\?ngResource/,
+                type: "asset/source"
+            },
+            {
+                test: /.*\.js$/,
+                use: [
+                    {
+                        loader: 'babel-loader',
+                        options: {
+                            cacheDirectory: true,
+                            compact: true,
+                            plugins: ["@angular/compiler-cli/linker/babel"],
+                        },
+                    },
+                ]
+            },
+            {
+                test: /\.[cm]?[tj]sx?$/,
+                use: [
+                    {
+                        loader: "@angular-devkit/build-angular/src/babel/webpack-loader",
+                        options: {
+                            aot: true,
+                            optimize: true,
+                            scriptTarget: 7
+                        }
+                    },
+                    {
+                        loader: '@ngtools/webpack'
+                    },
+                ],
+            },
+            {
                 test: /\.(css)$/,
                 oneOf: [
                     {
@@ -46,34 +81,20 @@ module.exports = {
                         loader: "postcss-loader"
                     }
                 ]
-            },
-            {
-                test: /\.[jt]sx?$/,
-                loader: '@ngtools/webpack',
-            },
-            {
-                test: /\.[cm]?js$/,
-                use: {
-                    loader: 'babel-loader',
-                    options: {
-                        cacheDirectory: true,
-                        compact: false,
-                        plugins: ["@angular/compiler-cli/linker/babel"],
-                    },
-                },
-            },
+            }
         ]
     },
-   /* optimization: {
-        runtimeChunk: 'single',
+    optimization: {
+        minimize: true,
+        runtimeChunk: "single",
         splitChunks: {
             chunks: "all",
             maxAsyncRequests: Infinity,
             minSize: 0,
             name: "vendor"
         },
-    },*/
-    optimization: {
+    },
+    /*optimization: {
         minimize: true,
         runtimeChunk: 'single',
         splitChunks: {
@@ -90,7 +111,7 @@ module.exports = {
                 },
             }
         }
-    },
+    },*/
     plugins: [
         new HtmlWebpackPlugin({
             filename: path.resolve(__dirname, "dist", "index.html"),
@@ -114,5 +135,6 @@ module.exports = {
                 }
             ]
         })
+        //new BundleAnalyzerPlugin()
     ]
 }
