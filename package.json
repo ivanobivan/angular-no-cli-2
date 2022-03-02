@@ -9,6 +9,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
+        "@angular-devkit/build-optimizer": "^0.1302.1",
         "@angular/compiler-cli": "^13.2.4",
         "babel-loader": "^8.2.3",
         "copy-webpack-plugin": "^10.2.4",
