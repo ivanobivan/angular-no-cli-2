@@ -3,7 +3,9 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require("copy-webpack-plugin");
 const ngtools = require('@ngtools/webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const a = require("@angular-devkit/build-optimizer")
+const JavaScriptOptimizerPlugin = require("@angular-devkit/build-angular/src/webpack/plugins/javascript-optimizer-plugin").JavaScriptOptimizerPlugin;
+const TransferSizePlugin = require("@angular-devkit/build-angular/src/webpack/plugins/transfer-size-plugin").TransferSizePlugin;
+const CssOptimizerPlugin = require("@angular-devkit/build-angular/src/webpack/plugins/css-optimizer-plugin").CssOptimizerPlugin;
 //const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = (env) => {
@@ -83,17 +85,26 @@ module.exports = (env) => {
         },
         optimization: {
             minimize: true,
+            minimizer: [
+                new JavaScriptOptimizerPlugin({
+                    advanced: true,
+                    define: {ngDevMode: false, ngI18nClosureMode: false, ngJitMode: false},
+                    keepNames: false,
+                    removeLicenses: true,
+                    sourcemap: false,
+                    target: 7
+                }),
+                new TransferSizePlugin(),
+                new CssOptimizerPlugin({
+                    esbuild: {
+                        alwaysUseWasm: false,
+                        initialized: false
+                    }
+                })
+            ],
             runtimeChunk: "single",
-            splitChunks: {
-                chunks: "all",
-                maxAsyncRequests: Infinity,
-                minSize: 0,
-                name: "vendor"
-            },
-        },
-        /*optimization: {
-            minimize: true,
-            runtimeChunk: 'single',
+            chunkIds: "deterministic",
+            moduleIds: "deterministic",
             splitChunks: {
                 chunks: "all",
                 maxAsyncRequests: Infinity,
@@ -108,7 +119,7 @@ module.exports = (env) => {
                     },
                 }
             }
-        },*/
+        },
         plugins: [
             new HtmlWebpackPlugin({
                 filename: path.resolve(__dirname, "dist", "index.html"),
