@@ -1,12 +1,11 @@
 const path = require("path");
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyPlugin = require("copy-webpack-plugin");
-const ngtools = require('@ngtools/webpack');
+const AngularWebpackPlugin = require('@ngtools/webpack').AngularWebpackPlugin;
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const JavaScriptOptimizerPlugin = require("@angular-devkit/build-angular/src/webpack/plugins/javascript-optimizer-plugin").JavaScriptOptimizerPlugin;
 const TransferSizePlugin = require("@angular-devkit/build-angular/src/webpack/plugins/transfer-size-plugin").TransferSizePlugin;
 const CssOptimizerPlugin = require("@angular-devkit/build-angular/src/webpack/plugins/css-optimizer-plugin").CssOptimizerPlugin;
-//const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = (env) => {
     return {
@@ -14,7 +13,7 @@ module.exports = (env) => {
         devtool: env.production ? false : "eval",
         context: path.resolve(__dirname),
         entry: {
-            index: ["./src/main.ts", "./src/index.css"],
+            index: ["./src/main.ts", "./src/index.css"]
         },
         stats: 'normal',
         devServer: {
@@ -103,8 +102,12 @@ module.exports = (env) => {
                 })
             ],
             runtimeChunk: "single",
-            chunkIds: "deterministic",
-            moduleIds: "deterministic",
+            /*splitChunks: {
+                chunks: "all",
+                maxAsyncRequests: Infinity,
+                minSize: 0,
+                name: "vendor"
+            }*/
             splitChunks: {
                 chunks: "all",
                 maxAsyncRequests: Infinity,
@@ -125,11 +128,6 @@ module.exports = (env) => {
                 filename: path.resolve(__dirname, "dist", "index.html"),
                 template: path.resolve(__dirname, "src/index.html")
             }),
-            new ngtools.AngularWebpackPlugin({
-                tsconfig: path.resolve(__dirname, "tsconfig.json"),
-                jitMode: false,
-                directTemplateLoading: true
-            }),
             new MiniCssExtractPlugin({
                 filename: '[name].css',
             }),
@@ -139,12 +137,14 @@ module.exports = (env) => {
                         context: "src/assets/",
                         from: "**/*",
                         to: "assets/",
-
                     }
                 ]
             }),
-            //new a.BuildOptimizerWebpackPlugin()
-            //new BundleAnalyzerPlugin()
+            new AngularWebpackPlugin({
+                tsconfig: path.resolve(__dirname, "tsconfig.json"),
+                jitMode: false,
+                directTemplateLoading: true
+            }),
         ]
     }
 }
